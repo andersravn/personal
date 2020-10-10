@@ -64,7 +64,7 @@ module.exports = {
         short_name: `andersravn.com`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#ff7d36`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },
