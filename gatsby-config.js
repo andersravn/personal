@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `ravn.tech`,
+    title: `andersravn`,
     author: {
       name: `Anders Ravn`,
       summary: `Web developer. Writing to myself.`,
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `ravn.tech`,
-        short_name: `ravn.tech`,
+        name: `andersravn`,
+        short_name: `andersravn.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
